@@ -1,6 +1,6 @@
 
 <template>
-  <h1>Jose Merlano</h1>
+  <h1>Contador</h1>
   <p>{{ contador }}</p>
   <button @click="incrementar" >Incrementar</button>
   <button @click="decrementar" >Decrementar</button>
